@@ -1,1 +1,0 @@
-/usr/bin/c++   -fcoroutines -fno-exceptions -O3  -rdynamic CMakeFiles/test_coro.dir/test_coro.cpp.o  -o test_coro  -lnuma 

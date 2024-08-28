@@ -1,3 +1,0 @@
-/root/lihongfu/coro_test/build/CMakeFiles/rebuild_cache.dir
-/root/lihongfu/coro_test/build/CMakeFiles/edit_cache.dir
-/root/lihongfu/coro_test/build/CMakeFiles/test_coro.dir
